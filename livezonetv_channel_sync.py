@@ -189,7 +189,7 @@ def make_m3u(channels):
         referer = channel.get("referer")
         if referer:
             # VLC-compatible HTTP Referer option for players that support it.
-            lines.append(f"#EXTVLCOPT:http-ref={referer}")
+            lines.append(f"#EXTVLCOPT:http-referer={referer}")
 
         lines.append(url)
 
