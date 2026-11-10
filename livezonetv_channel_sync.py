@@ -17,7 +17,7 @@ import tempfile
 import urllib.request
 from pathlib import Path
 
-API_URL = "https://raw.githubusercontent.com/LiveZoneTV321/test/refs/heads/main/test.json"
+API_URL = "https://eamintv.vercel.app/IPTV/Apps/Info/Channel_Data/Api/Channel_Data.json"
 
 OUTPUT_JSON = Path("LiveZoneTV_Channels.json")
 OUTPUT_M3U = Path("LiveZoneTV_Playlist.m3u8")
