@@ -418,18 +418,6 @@
       "autoPlayBackup": true
     },
     {
-      "name": "BTV HD",
-      "logo": "https://i.postimg.cc/JnWdHSrq/20250529-071604.png",
-      "group": "Bangla",
-      "tabs": [
-        {
-          "name": "Main Stream",
-          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
-        }
-      ],
-      "autoPlayBackup": true
-    },
-    {
       "name": "Channel 9",
       "logo": "https://i.postimg.cc/pVq6vZYV/20250729-030034.png",
       "group": "Bangla",
