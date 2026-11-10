@@ -239,7 +239,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=528475656"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009247"
         }
       ],
       "autoPlayBackup": true,
@@ -413,6 +413,18 @@
         {
           "name": "Main Stream",
           "url": "https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "BTV HD",
+      "logo": "https://i.postimg.cc/JnWdHSrq/20250529-071604.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
         }
       ],
       "autoPlayBackup": true
