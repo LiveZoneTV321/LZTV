@@ -14,7 +14,7 @@ https://box.bbaria.net:8083/Jalsha_Movie/index.m3u8
 #EXTINF:-1 tvg-name="Khushboo Bangla" tvg-logo="https://i.postimg.cc/wBX16XCx/20251031-205432.jpg" group-title="indian Bangla",Khushboo Bangla
 https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="indian Bangla",Sony Aath
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009255
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="indian Bangla",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/index.m3u8
@@ -33,27 +33,27 @@ http://103.114.11.37:8081/Colors-HD/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://i.postimg.cc/RFXqn515/20250529-132912.png" group-title="indian Hindi",Hum TV
 https://j6nfugukcl.gpcdn.net/tile_3/master.m3u8
 #EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529-131834.png" group-title="indian Hindi",Sony Max
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009249
 #EXTINF:-1 tvg-name="Sony Max 1" tvg-logo="https://i.postimg.cc/251DGH5w/20260930-231736.png" group-title="indian Hindi",Sony Max 1
 http://live.balajibroadband.com:3500/live/3418.m3u8
 #EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/KYbYqvJh/20250529-132238.png" group-title="indian Hindi",Sony Max 2
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000044878
 #EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529-131834.png" group-title="indian Hindi",Sony Max HD
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009247
 #EXTINF:-1 tvg-name="Sony Pal" tvg-logo="https://i.postimg.cc/rsHmQ1Yf/20250529-132755.png" group-title="indian Hindi",Sony Pal
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009273
 #EXTINF:-1 tvg-name="Sony Sab HD" tvg-logo="https://i.postimg.cc/442mfGNp/20250529-132607.png" group-title="indian Hindi",Sony Sab HD
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009248
 #EXTINF:-1 tvg-name="Sony Television HD" tvg-logo="https://i.postimg.cc/0yDQ0JGC/20250529-131726.png" group-title="indian Hindi",Sony Television HD
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009246
 #EXTINF:-1 tvg-name="Sony Wah" tvg-logo="https://i.postimg.cc/vH1DDKck/20250529-132424.png" group-title="indian Hindi",Sony Wah
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009253
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202-090224.png" group-title="indian Hindi",Star Gold HD
 http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
@@ -134,7 +134,7 @@ http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-name="Pogo" tvg-logo="https://i.postimg.cc/W3FbtF4r/20250529-115709.png" group-title="Kids",Pogo
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Sony YAY" tvg-logo="https://i.postimg.cc/wBbj6c9g/20250529-115914.png" group-title="Kids",Sony YAY
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/qR885pSD/20251002-231959.png" group-title="Documentary",Animal Planet HD
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
@@ -147,16 +147,16 @@ http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002-225834.png" group-title="Sports",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://i.postimg.cc/cH2Cc7zX/20250529-122631.png" group-title="Sports",Sony Ten 1
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009276
 #EXTINF:-1 tvg-name="Sony Ten 2" tvg-logo="https://i.postimg.cc/x12k7R1Z/20250529-122855.png" group-title="Sports",Sony Ten 2
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009277
 #EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="https://i.postimg.cc/vH9g3jb9/20250529-123011.png" group-title="Sports",Sony Ten 3
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009278
 #EXTINF:-1 tvg-name="Sony Ten 5" tvg-logo="https://i.postimg.cc/kMLRN93q/20250529-123147.png" group-title="Sports",Sony Ten 5
-#EXTVLCOPT:http-ref=https://techandeat.online
+#EXTVLCOPT:http-referer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009275
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://i.postimg.cc/N0sYHFDj/20251002-230032.png" group-title="Sports",Star Sports 1
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
