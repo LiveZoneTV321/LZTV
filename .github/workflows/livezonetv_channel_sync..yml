@@ -1,3 +1,4 @@
+
 name: LiveZoneTV Channel Auto Sync
 
 on:
@@ -20,6 +21,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,16 +32,25 @@ jobs:
       - name: Run channel sync
         run: python livezonetv_channel_sync.py
 
+      - name: Verify both output files
+        run: |
+          test -s LiveZoneTV_Channels.json
+          test -s LiveZoneTV_Playlist.m3u8
+
+          echo "Both files generated successfully."
+          ls -lh LiveZoneTV_Channels.json LiveZoneTV_Playlist.m3u8
+
       - name: Commit updated JSON and M3U8
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add LiveZoneTV_Channels.json LiveZoneTV_Playlist.m3u8
+          git add -f LiveZoneTV_Channels.json
+          git add -f LiveZoneTV_Playlist.m3u8
 
           if git diff --cached --quiet; then
-            echo "No channel changes detected."
+            echo "No file content changes detected."
           else
             git commit -m "Auto update LiveZoneTV channels"
-            git push
+            git push origin HEAD:${GITHUB_REF_NAME}
           fi
