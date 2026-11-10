@@ -1,0 +1,44 @@
+name: LiveZoneTV Channel Auto Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: livezonetv-channel-sync
+  cancel-in-progress: false
+
+jobs:
+  sync-channels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run channel sync
+        run: python livezonetv_channel_sync.py
+
+      - name: Commit updated JSON and M3U8
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add LiveZoneTV_Channels.json LiveZoneTV_Playlist.m3u8
+
+          if git diff --cached --quiet; then
+            echo "No channel changes detected."
+          else
+            git commit -m "Auto update LiveZoneTV channels"
+            git push
+          fi
