@@ -1,0 +1,978 @@
+{
+  "playlist_name": "LiveZone TV",
+  "channels": [
+    {
+      "name": "Akash 8",
+      "logo": "https://i.postimg.cc/PJ5V7VsN/20250711-062758.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Colors Bangla Cinema",
+      "logo": "https://i.postimg.cc/13pfykGD/20250602-220936.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Colors Bangla HD",
+      "logo": "https://i.postimg.cc/HLdjn6zR/20250602-220804.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Enter 10 Bangla",
+      "logo": "https://i.postimg.cc/LX122cy3/20250529-111624.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Jalsha Movies HD",
+      "logo": "https://i.postimg.cc/T2nGNxc8/20250707-053157.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Jalsha Movies SD",
+      "logo": "https://i.postimg.cc/G3gmTZRs/20260204-142159.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://box.bbaria.net:8083/Jalsha_Movie/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Khushboo Bangla",
+      "logo": "https://i.postimg.cc/wBX16XCx/20251031-205432.jpg",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony Aath",
+      "logo": "https://i.postimg.cc/ZqgJkbLq/20250529-111438.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009255"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Star Jalsha HD",
+      "logo": "https://i.postimg.cc/hvRgj26W/20250529-105408.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sun Bangla",
+      "logo": "https://i.postimg.cc/wM44Y5g2/20250711-062827.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.135.253.32:8080/SUN-BANGLA/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Zee Bangla Cinema",
+      "logo": "https://i.postimg.cc/Zq0JDBpg/20250529-110358.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Zee Bangla HD",
+      "logo": "https://i.postimg.cc/ry5MbLR8/20250529-105712.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://da86m1sqpm3o0.cloudfront.net/260723/smil:zeebangla.smil/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "& Picture HD",
+      "logo": "https://i.postimg.cc/k5N2qtB5/20250529-133459.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "& Tv",
+      "logo": "https://i.postimg.cc/bJzsJNt9/20250529-133255.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Colors",
+      "logo": "https://i.postimg.cc/pdy3k1qZ/20251202-090150.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Colors-HD/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Hum TV",
+      "logo": "https://i.postimg.cc/RFXqn515/20250529-132912.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://j6nfugukcl.gpcdn.net/tile_3/master.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony Max",
+      "logo": "https://i.postimg.cc/zX9vhkhB/20250529-131834.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009249"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Sony Max 1",
+      "logo": "https://i.postimg.cc/251DGH5w/20260930-231736.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://live.balajibroadband.com:3500/live/3418.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony Max 2",
+      "logo": "https://i.postimg.cc/KYbYqvJh/20250529-132238.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000044878"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Sony Max HD",
+      "logo": "https://i.postimg.cc/zX9vhkhB/20250529-131834.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009247"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Sony Pal",
+      "logo": "https://i.postimg.cc/rsHmQ1Yf/20250529-132755.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009273"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Sony Sab HD",
+      "logo": "https://i.postimg.cc/442mfGNp/20250529-132607.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009248"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Sony Television HD",
+      "logo": "https://i.postimg.cc/0yDQ0JGC/20250529-131726.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009246"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Sony Wah",
+      "logo": "https://i.postimg.cc/vH1DDKck/20250529-132424.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009253"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Star Gold HD",
+      "logo": "https://i.postimg.cc/PqN0KF2M/20251202-090224.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Gold Select",
+      "logo": "https://i.postimg.cc/4xdM5tT7/20260402-210758.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Plus HD",
+      "logo": "https://i.postimg.cc/q7gWQZjw/20251202-090307.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Zee Cinema HD",
+      "logo": "https://i.postimg.cc/nhDsSWxB/20250529-133753.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "52 Channel",
+      "logo": "https://i.postimg.cc/nhybNw1j/20260913-093359.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/channel52/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Ananda Tv",
+      "logo": "https://i.postimg.cc/yYV4b3zP/20250529-103431.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Asian",
+      "logo": "https://i.postimg.cc/PqvBwmmt/20250529-102106.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Bangla Tv",
+      "logo": "https://i.postimg.cc/tTWQLhTr/20250529-104243.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Banglavision",
+      "logo": "https://i.postimg.cc/JzGFfbYb/20250529-072833.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Bijoy Tv",
+      "logo": "https://i.postimg.cc/3xfTp8VZ/20250529-104739.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "BTV HD",
+      "logo": "https://i.postimg.cc/JnWdHSrq/20250529-071604.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Channel 9",
+      "logo": "https://i.postimg.cc/pVq6vZYV/20250729-030034.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Channel i",
+      "logo": "https://i.postimg.cc/J47vqwbY/20250529-101717.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_5/master.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Channel S",
+      "logo": "https://i.postimg.cc/nV38nLkH/20260913-092507.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://box.bbaria.net:8083/ChannelS/video.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Deepto",
+      "logo": "https://i.postimg.cc/9XPHbts0/20250529-103607.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Ekattor HD",
+      "logo": "https://i.postimg.cc/D0xCDZqj/20250529-071258.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "G TV",
+      "logo": "https://i.postimg.cc/jjKGfnW8/20250704-201040.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.135.253.32:8080/Gazi-TV/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Independent",
+      "logo": "https://i.postimg.cc/QtkYQSVr/20250529-071659.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Iqra Bangla",
+      "logo": "https://i.postimg.cc/qqLNkFLg/20250531-104940.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Jalsha Bangla",
+      "logo": "https://i.postimg.cc/FHM5wnxy/20260913-093445.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://dish.porosh.com.bd/hls/jalshabangla.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Jamuna",
+      "logo": "https://i.postimg.cc/L4D0hyrt/P-071035.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Maasranga",
+      "logo": "https://i.postimg.cc/WbnjN67C/20250529-104926.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://116.204.149.16/maasranga/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Madani Bangla",
+      "logo": "https://i.postimg.cc/1tDgdXVG/20250531-105059.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen3.aynaott.com/z24qLsqV/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "MatriBhumi TV",
+      "logo": "https://i.postimg.cc/g0xWsM0M/20260930-231840.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://live.playmax.live/matribhumi/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Me Tv",
+      "logo": "https://i.postimg.cc/j2hVjtyP/20250529-103904.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://iptvbd.live/metv1080/1080.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Mohona Tv",
+      "logo": "https://i.postimg.cc/CKWpPvFB/20250529-104420.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Movie Bangla",
+      "logo": "https://i.postimg.cc/wBN1BtXk/20251127-095813.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "My Tv",
+      "logo": "https://i.postimg.cc/HxGF4V2b/20250529-103226.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "N TV",
+      "logo": "https://i.postimg.cc/kgzHqBLL/20250529-072107.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Nagorik",
+      "logo": "https://i.postimg.cc/8zQ0DYBH/20250720-201346.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://box.bbaria.net:8083/Nagorik_TV/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Peace TV Bangla",
+      "logo": "https://i.postimg.cc/vTYq396x/20250529-071345.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "R TV",
+      "logo": "https://i.postimg.cc/8kmxMkrr/20250529-101852.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "SA TV",
+      "logo": "https://i.postimg.cc/CLvtrv7h/20250529-073029.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Somoy Tv",
+      "logo": "https://i.postimg.cc/Qxn4JFNV/20250529-071147.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Cartoon Network HD+",
+      "logo": "https://i.postimg.cc/1tkRFmgd/20250529-115531.png",
+      "group": "Kids",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Discovery Kids",
+      "logo": "https://i.postimg.cc/pXdcjfHg/20250529-115821.png",
+      "group": "Kids",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Durunto",
+      "logo": "https://i.postimg.cc/s2WM2BPR/20251127-095726.png",
+      "group": "Kids",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Duronto/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Nick Bangla",
+      "logo": "https://i.postimg.cc/4dQCpzTm/20250630-050342.png",
+      "group": "Kids",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://live.balajibroadband.com:3500/live/1341.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Pogo",
+      "logo": "https://i.postimg.cc/W3FbtF4r/20250529-115709.png",
+      "group": "Kids",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony YAY",
+      "logo": "https://i.postimg.cc/wBbj6c9g/20250529-115914.png",
+      "group": "Kids",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Animal Planet HD",
+      "logo": "https://i.postimg.cc/qR885pSD/20251002-231959.png",
+      "group": "Documentary",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Discovery HD",
+      "logo": "https://i.postimg.cc/k4xxp7zh/20251002-232031.png",
+      "group": "Documentary",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Love Natural 4k",
+      "logo": "https://i.postimg.cc/XYG6H09y/20260913-093002.png",
+      "group": "Documentary",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://27.124.71.27/Love_Nature/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "National Geo HD",
+      "logo": "https://i.postimg.cc/Zn4KK0kW/20251031-210443.png",
+      "group": "Documentary",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "A Sports HD",
+      "logo": "https://i.postimg.cc/ZqbZdnHq/20251002-225834.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony Ten 1",
+      "logo": "https://i.postimg.cc/cH2Cc7zX/20250529-122631.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009276"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Sony Ten 2",
+      "logo": "https://i.postimg.cc/x12k7R1Z/20250529-122855.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009277"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Sony Ten 3",
+      "logo": "https://i.postimg.cc/vH9g3jb9/20250529-123011.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009278"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Sony Ten 5",
+      "logo": "https://i.postimg.cc/kMLRN93q/20250529-123147.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009275"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Star Sports 1",
+      "logo": "https://i.postimg.cc/N0sYHFDj/20251002-230032.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Sports 2",
+      "logo": "https://i.postimg.cc/yNvbVTHy/20250702-032050.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Sports SL 1",
+      "logo": "https://i.postimg.cc/50ykjF9d/20250702-032238.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Sports SL 2",
+      "logo": "https://i.postimg.cc/DzvFX06y/20251002-225947.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "T Sports HD",
+      "logo": "https://i.postimg.cc/VL5yTtwr/20250707-141739.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Ten Cricket",
+      "logo": "https://i.postimg.cc/fWV00yP8/20250529-123315.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Willow Sports HD",
+      "logo": "https://i.postimg.cc/qgfrNjFH/20250529-123654.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Willow-TV/index.m3u8?token=sboxcast"
+        }
+      ],
+      "autoPlayBackup": true
+    }
+  ]
+}
