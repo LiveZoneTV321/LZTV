@@ -129,7 +129,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla_cinema/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -153,7 +153,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/pictures_hd/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -165,7 +165,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/tv_hd/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -490,18 +490,6 @@
       "autoPlayBackup": true
     },
     {
-      "name": "G TV",
-      "logo": "https://i.postimg.cc/jjKGfnW8/20250704-201040.png",
-      "group": "Bangla",
-      "tabs": [
-        {
-          "name": "Main Stream",
-          "url": "http://103.135.253.32:8080/Gazi-TV/index.m3u8"
-        }
-      ],
-      "autoPlayBackup": true
-    },
-    {
       "name": "Independent",
       "logo": "https://i.postimg.cc/QtkYQSVr/20250529-071659.png",
       "group": "Bangla",
@@ -521,6 +509,18 @@
         {
           "name": "Main Stream",
           "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Islamic TV",
+      "logo": "https://i.postimg.cc/J4nkLqHS/20260321-075216.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/islamic_tv/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -712,7 +712,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/cartoon_network_hd/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -724,7 +724,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/discovery_kids/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -760,7 +760,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/pogo/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -772,7 +772,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000001971"
         }
       ],
       "autoPlayBackup": true,
@@ -785,7 +785,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/animal_planet_hd/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -797,7 +797,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8"
+          "url": "http://sm-monirul.top/@sm_iptv_bd/live.php?id=discovery_hd&sm=.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -821,7 +821,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8"
+          "url": "http://sm-monirul.top/@sm_iptv_bd/live.php?id=natgeo_hd&sm=.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -957,7 +957,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/sony_ten_cricket/index.m3u8"
         }
       ],
       "autoPlayBackup": true
