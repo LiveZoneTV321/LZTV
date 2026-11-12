@@ -797,7 +797,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://sm-monirul.top/@sm_iptv_bd/live.php?id=discovery_hd&sm=.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/discovery_hd/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -821,7 +821,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://sm-monirul.top/@sm_iptv_bd/live.php?id=natgeo_hd&sm=.m3u8"
+          "url": "https://sm-monirul.top/@sm_iptv_bd/live.php?id=natgeo_hd&sm=.m3u8"
         }
       ],
       "autoPlayBackup": true
